@@ -1,4 +1,3 @@
-#ENTRADA DE DATOS
 
 nombre_cliente = input("Nombre del cliente: ")
 seccion_cliente = input("Sección del cliente: ")
